@@ -1,0 +1,13 @@
+/* main pages css */
+
+ @font-face { font-family: MainBold; src: url('MoonBold.otf'); } 
+ @font-face { font-family: MoonLight; src: url('MoonLight.otf'); } 
+ @import url('https://fonts.googleapis.com/css?family=Open+Sans+Condensed:700|Playfair+Display:700|Raleway');
+
+ /* 
+Good for Headings and text:
+ font-family: 'Raleway', sans-serif;
+font-family: 'Playfair Display', serif;
+Good for Text:;
+font-family: 'Open Sans Condensed', sans-serif;
+
